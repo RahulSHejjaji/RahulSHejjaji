@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Rahul S Hejjaji! 👋
 
-<!--
-**RahulSHejjaji/RahulSHejjaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I am Rahul S Hejjaji, currently a BS MS Student at [IISER Pune](https://www.iiserpune.ac.in) interested in Physics.
+- 🔭 I am currently exploring my interests in cosmology, large scale structure formation, and dark matter.
 
-Here are some ideas to get you started:
+## Hobbies
+- 🍳 Cooking
+- 🎮 Playing video games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+- 📧 Reach out to me at: rahul.s.hejjaji@students.iiserpune.ac.in
+
