@@ -1,7 +1,7 @@
 # Hi there, I'm Rahul S Hejjaji! 👋
 
 ## About Me
-- 🎓 I am currently a 3rd BS MS Student at [IISER Pune](https://www.iiserpune.ac.in) interested in Physics.
+- 🎓 I am currently a 3rd year BS MS Student at [IISER Pune](https://www.iiserpune.ac.in) interested in Physics.
 - 🔭 I am currently exploring my interests in cosmology, large scale structure formation, and dark matter.
 
 ## Hobbies
